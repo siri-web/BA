@@ -1,0 +1,55 @@
+system;dialecticity;performance rank
+ArchiMob baseline;0.355;3
+ArchiMob baseline;0.3;1
+ArchiMob baseline;0.35;2
+whisper-large Sicard et al.;0.355;3
+whisper-large Sicard et al.;0.3;1
+whisper-large Sicard et al.;0.35;2
+whisper-medium Sicard et al.;0.355;2
+whisper-medium Sicard et al.;0.3;1
+whisper-medium Sicard et al.;0.35;3
+whisper-small Sicard et al.;0.355;2
+whisper-small Sicard et al.;0.3;1
+whisper-small Sicard et al.;0.35;3
+whisper-base Sicard et al.;0.355;2
+whisper-base Sicard et al.;0.3;1
+whisper-base Sicard et al.;0.35;3
+whisper-tiny Sciard et al.;0.355;2
+whisper-tiny Sciard et al.;0.3;1
+whisper-tiny Sciard et al.;0.35;3
+NNET-DISC Nigmatulina;0.355;2
+NNET-DISC Nigmatulina;0.3;1
+NNET-DISC Nigmatulina;0.35;3
+TDNN-iVector Nigmatulina;0.355;2
+TDNN-iVector Nigmatulina;0.3;1
+TDNN-iVector Nigmatulina;0.35;3
+XLSR Lexicon-Free Khosravani et al.;0.355;1
+XLSR Lexicon-Free Khosravani et al.;0.3;3
+XLSR Lexicon-Free Khosravani et al.;0.35;2
+XLSR Baseline Khosravani et al.;0.355;1
+XLSR Baseline Khosravani et al.;0.3;3
+XLSR Baseline Khosravani et al.;0.35;2
+XLSR manual normalization Khosravani et al.;0.355;1
+XLSR manual normalization Khosravani et al.;0.3;3
+XLSR manual normalization Khosravani et al.;0.35;2
+XLSR automatic normalization Khosravani et al.;0.355;1
+XLSR automatic normalization Khosravani et al.;0.3;3
+XLSR automatic normalization Khosravani et al.;0.35;2
+System a Schraner et al.;0.355;3
+System a Schraner et al.;0.3;1
+System a Schraner et al.;0.35;2
+System b Schraner et al.;0.355;2
+System b Schraner et al.;0.3;1
+System b Schraner et al.;0.35;3
+System c Schraner et al.;0.355;3
+System c Schraner et al.;0.3;1
+System c Schraner et al.;0.35;2
+System d Schraner et al.;0.355;2
+System d Schraner et al.;0.3;1
+System d Schraner et al.;0.35;3
+FHNW XLS-R Schraner et al.;0.355;2
+FHNW XLS-R Schraner et al.;0.3;1
+FHNW XLS-R Schraner et al.;0.35;3
+FHNW Transformer Schraner et al.;0.355;2
+FHNW Transformer Schraner et al.;0.3;1
+FHNW Transformer Schraner et al.;0.35;3

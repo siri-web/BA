@@ -1,0 +1,49 @@
+system;dialecticity;token ratio;character ratio;performance rank
+ArchiMob baseline;0.355;0.224939188;0.001101772;5
+ArchiMob baseline;0.32;0.220073439;0.000536808;3
+ArchiMob baseline;0.3;0.296345077;0.002188679;2
+ArchiMob baseline;0.35;0.194637883;0.00078265;4
+ArchiMob baseline;0.355;0.812600969;0.000681859;6
+ArchiMob baseline;0.305;0.096749389;3.11456E-05;1
+whisper-large Sicard et al.;0.355;0.378368744;0.00043949;5
+whisper-large Sicard et al.;0.32;0.341216551;0.000417729;1
+whisper-large Sicard et al.;0.3;0.252439401;0.000101083;2
+whisper-large Sicard et al.;0.35;0.38596368;0.000410574;4
+whisper-large Sicard et al.;0.355;0.354925915;0.000428456;6
+whisper-large Sicard et al.;0.305;0.325174423;0.000289592;3
+whisper-medium Sicard et al.;0.355;0.378368744;0.00043949;4
+whisper-medium Sicard et al.;0.32;0.341216551;0.000417729;2
+whisper-medium Sicard et al.;0.3;0.252439401;0.000101083;1
+whisper-medium Sicard et al.;0.35;0.38596368;0.000410574;5
+whisper-medium Sicard et al.;0.355;0.354925915;0.000428456;6
+whisper-medium Sicard et al.;0.305;0.325174423;0.000289592;3
+whisper-small Sicard et al.;0.355;0.378368744;0.00043949;4
+whisper-small Sicard et al.;0.32;0.341216551;0.000417729;2
+whisper-small Sicard et al.;0.3;0.252439401;0.000101083;1
+whisper-small Sicard et al.;0.35;0.38596368;0.000410574;5
+whisper-small Sicard et al.;0.355;0.354925915;0.000428456;6
+whisper-small Sicard et al.;0.305;0.325174423;0.000289592;3
+whisper-base Sicard et al.;0.355;0.378368744;0.00043949;4
+whisper-base Sicard et al.;0.32;0.341216551;0.000417729;2
+whisper-base Sicard et al.;0.3;0.252439401;0.000101083;1
+whisper-base Sicard et al.;0.35;0.38596368;0.000410574;6
+whisper-base Sicard et al.;0.355;0.354925915;0.000428456;3
+whisper-base Sicard et al.;0.305;0.325174423;0.000289592;5
+whisper-tiny Sciard et al.;0.355;0.378368744;0.00043949;4
+whisper-tiny Sciard et al.;0.32;0.341216551;0.000417729;1
+whisper-tiny Sciard et al.;0.3;0.252439401;0.000101083;2
+whisper-tiny Sciard et al.;0.35;0.38596368;0.000410574;6
+whisper-tiny Sciard et al.;0.355;0.354925915;0.000428456;5
+whisper-tiny Sciard et al.;0.305;0.325174423;0.000289592;3
+NNET-DISC Nigmatulina;0.355;0.16604561;0.000114499;4
+NNET-DISC Nigmatulina;0.32;0.314937184;0.000680208;3
+NNET-DISC Nigmatulina;0.3;0.296345077;0.002188679;1
+NNET-DISC Nigmatulina;0.35;0.387534819;0.00078265;6
+NNET-DISC Nigmatulina;0.355;0.1466479;0.000192523;5
+NNET-DISC Nigmatulina;0.305;0.106588334;3.11456E-05;2
+TDNN-iVector Nigmatulina;0.355;0.16604561;0.000114499;4
+TDNN-iVector Nigmatulina;0.32;0.314937184;0.000680208;3
+TDNN-iVector Nigmatulina;0.3;0.296345077;0.002188679;1
+TDNN-iVector Nigmatulina;0.35;0.387534819;0.00078265;6
+TDNN-iVector Nigmatulina;0.355;0.1466479;0.000192523;5
+TDNN-iVector Nigmatulina;0.305;0.106588334;3.11456E-05;2

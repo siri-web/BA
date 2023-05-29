@@ -1,0 +1,146 @@
+﻿system;dialect;Rank
+ArchiMob baseline Scherrer et al.;Bern;6
+ArchiMob baseline Scherrer et al.;Basel;3
+ArchiMob baseline Scherrer et al.;Grisons;2
+ArchiMob baseline Scherrer et al.;Lucerne;7
+ArchiMob baseline Scherrer et al.;Uri;5
+ArchiMob baseline Scherrer et al.;Valais;4
+ArchiMob baseline Scherrer et al.;Zurich;1
+whisper-large Sicard et al.;Aargau;6
+whisper-large Sicard et al.;Bern;5
+whisper-large Sicard et al.;Basel-Stadt;1
+whisper-large Sicard et al.;Graubünden;2
+whisper-large Sicard et al.;Luzern;7
+whisper-large Sicard et al.;St. Gallen;8
+whisper-large Sicard et al.;Valais;4
+whisper-large Sicard et al.;Zürich;3
+whisper-medium Sicard et al.;Aargau;6
+whisper-medium Sicard et al.;Bern;4
+whisper-medium Sicard et al.;Basel-Stadt;2
+whisper-medium Sicard et al.;Graubünden;1
+whisper-medium Sicard et al.;Luzern;7
+whisper-medium Sicard et al.;St. Gallen;8
+whisper-medium Sicard et al.;Valais;5
+whisper-medium Sicard et al.;Zürich;3
+whisper-small Sicard et al.;Aargau;7
+whisper-small Sicard et al.;Bern;4
+whisper-small Sicard et al.;Basel-Stadt;2
+whisper-small Sicard et al.;Graubünden;1
+whisper-small Sicard et al.;Luzern;8
+whisper-small Sicard et al.;St. Gallen;5
+whisper-small Sicard et al.;Valais;6
+whisper-small Sicard et al.;Zürich;3
+whisper-base Sicard et al.;Aargau;8
+whisper-base Sicard et al.;Bern;5
+whisper-base Sicard et al.;Basel-Stadt;2
+whisper-base Sicard et al.;Graubünden;1
+whisper-base Sicard et al.;Luzern;6
+whisper-base Sicard et al.;St. Gallen;3
+whisper-base Sicard et al.;Valais;7
+whisper-base Sicard et al.;Zürich;4
+whisper-tiny Sciard et al.;Aargau;6
+whisper-tiny Sciard et al.;Bern;4
+whisper-tiny Sciard et al.;Basel-Stadt;1
+whisper-tiny Sciard et al.;Graubünden;2
+whisper-tiny Sciard et al.;Luzern;5
+whisper-tiny Sciard et al.;St. Gallen;7
+whisper-tiny Sciard et al.;Valais;8
+whisper-tiny Sciard et al.;Zürich;3
+NNET-DISC Nigmatulina;Valais;14
+NNET-DISC Nigmatulina;St. Gallen;13
+NNET-DISC Nigmatulina;Luzern;12
+NNET-DISC Nigmatulina;Bern;11
+NNET-DISC Nigmatulina;Glarus;10
+NNET-DISC Nigmatulina;Schwyz;9
+NNET-DISC Nigmatulina;Basel-Stadt;8
+NNET-DISC Nigmatulina;Uri;7
+NNET-DISC Nigmatulina;Basel-Landschaft;6
+NNET-DISC Nigmatulina;Schaffhausen;5
+NNET-DISC Nigmatulina;Aargau;4
+NNET-DISC Nigmatulina;Nidwalden;3
+NNET-DISC Nigmatulina;Zürich;2
+NNET-DISC Nigmatulina;Graubünden;1
+TDNN-iVector Nigmatulina;Valais;14
+TDNN-iVector Nigmatulina;St. Gallen;7
+TDNN-iVector Nigmatulina;Luzern;11
+TDNN-iVector Nigmatulina;Bern;9
+TDNN-iVector Nigmatulina;Glarus;4
+TDNN-iVector Nigmatulina;Schwyz;12
+TDNN-iVector Nigmatulina;Basel-Stadt;8
+TDNN-iVector Nigmatulina;Uri;13
+TDNN-iVector Nigmatulina;Basel-Landschaft;5
+TDNN-iVector Nigmatulina;Schaffhausen;3
+TDNN-iVector Nigmatulina;Aargau;6
+TDNN-iVector Nigmatulina;Nidwalden;10
+TDNN-iVector Nigmatulina;Zürich;2
+TDNN-iVector Nigmatulina;Graubünden;1
+XLSR Lexicon-Free Khosravani et al.;Northwestern Swiss;3
+XLSR Lexicon-Free Khosravani et al.;Bern;5
+XLSR Lexicon-Free Khosravani et al.;Zürich;2
+XLSR Lexicon-Free Khosravani et al.;Graubünden;7
+XLSR Lexicon-Free Khosravani et al.;Eastern Swiss;1
+XLSR Lexicon-Free Khosravani et al.;Valais;6
+XLSR Lexicon-Free Khosravani et al.;Central Swiss;4
+XLSR Baseline Khosravani et al.;Northwestern Swiss;3
+XLSR Baseline Khosravani et al.;Bern;5
+XLSR Baseline Khosravani et al.;Zürich;2
+XLSR Baseline Khosravani et al.;Graubünden;7
+XLSR Baseline Khosravani et al.;Eastern Swiss;1
+XLSR Baseline Khosravani et al.;Valais;6
+XLSR Baseline Khosravani et al.;Central Swiss;4
+XLSR manual normalization Khosravani et al.;Northwestern Swiss;2
+XLSR manual normalization Khosravani et al.;Bern;5
+XLSR manual normalization Khosravani et al.;Zürich;3
+XLSR manual normalization Khosravani et al.;Graubünden;7
+XLSR manual normalization Khosravani et al.;Eastern Swiss;1
+XLSR manual normalization Khosravani et al.;Valais;6
+XLSR manual normalization Khosravani et al.;Central Swiss;4
+XLSR automatic normalization Khosravani et al.;Northwestern Swiss;3
+XLSR automatic normalization Khosravani et al.;Bern;5
+XLSR automatic normalization Khosravani et al.;Zürich;2
+XLSR automatic normalization Khosravani et al.;Graubünden;7
+XLSR automatic normalization Khosravani et al.;Eastern Swiss;1
+XLSR automatic normalization Khosravani et al.;Valais;6
+XLSR automatic normalization Khosravani et al.;Central Swiss;4
+System a Schraner et al.;Basel;4
+System a Schraner et al.;Bern;7
+System a Schraner et al.;Graubünden;3
+System a Schraner et al.;Innerschweiz;1
+System a Schraner et al.;Ostschweiz;5
+System a Schraner et al.;Wallis;6
+System a Schraner et al.;Zürich;2
+System b Schraner et al.;Basel;6
+System b Schraner et al.;Bern;5
+System b Schraner et al.;Graubünden;3
+System b Schraner et al.;Innerschweiz;2
+System b Schraner et al.;Ostschweiz;4
+System b Schraner et al.;Wallis;7
+System b Schraner et al.;Zürich;1
+System c Schraner et al.;Basel;5
+System c Schraner et al.;Bern;7
+System c Schraner et al.;Graubünden;2
+System c Schraner et al.;Innerschweiz;1
+System c Schraner et al.;Ostschweiz;4
+System c Schraner et al.;Wallis;6
+System c Schraner et al.;Zürich;3
+System d Schraner et al.;Basel;5
+System d Schraner et al.;Bern;6
+System d Schraner et al.;Graubünden;3
+System d Schraner et al.;Innerschweiz;1
+System d Schraner et al.;Ostschweiz;4
+System d Schraner et al.;Wallis;7
+System d Schraner et al.;Zürich;2
+FHNW XLS-R Schraner et al.;Basel;5
+FHNW XLS-R Schraner et al.;Bern;4
+FHNW XLS-R Schraner et al.;Graubünden;3
+FHNW XLS-R Schraner et al.;Innerschweiz;1
+FHNW XLS-R Schraner et al.;Ostschweiz;6
+FHNW XLS-R Schraner et al.;Wallis;7
+FHNW XLS-R Schraner et al.;Zürich;2
+FHNW Transformer Schraner et al.;Basel;6
+FHNW Transformer Schraner et al.;Bern;5
+FHNW Transformer Schraner et al.;Graubünden;2
+FHNW Transformer Schraner et al.;Innerschweiz;1
+FHNW Transformer Schraner et al.;Ostschweiz;4
+FHNW Transformer Schraner et al.;Wallis;7
+FHNW Transformer Schraner et al.;Zürich;3
