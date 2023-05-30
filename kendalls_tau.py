@@ -3,7 +3,7 @@ from scipy.stats import kendalltau
 from collections import defaultdict
 
 
-data = pd.read_csv("Table.csv", sep=";")
+data = pd.read_csv("rank_table.csv", sep=";")
 tau = defaultdict(list)
 
 for name_1 in data["system"].unique():

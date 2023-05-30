@@ -1,0 +1,162 @@
+﻿System Name;Dialect;Performance;Writing System;Corpus Name;Corpus Topic;Automatic vs. Manual Transcription;Known Transcriber Differences;Training Dialects;Overlap in Training and Test in Terms of Dialect;Number of Different Speakers (Training Overall);Number of Different Speakers (Training Per Dialect);Different Speakers Test;Overlap between Test and Training Speakers;Training Set Size (Utterances Per Dialect);Training Set Size (Words Per Dialect);Mean Utterance Length in Words (Training Overall);Mean Utterance Length in Words (Training per Dialect);Vocab Size (Training Overall);Vocab Size (Training Per Dialect);Token Ratio (Training Overall);Token Ratio (Training Per Dialect);Charcter Ratio (Training Overall);Character Ratio (Training Per Dialect);Test Set Size ( in Words);Mean Utterance Length in Words (Test);Vocab Size Test;Token Ratio (Test);Charcter Ratio (Testl)
+ArchiMob baseline;Bern;29.83;Dieht;ArchiMob;historical interviews;manual;Yes;Zurich area;No;22;N/A;1;no;0;0;6.62;N/A;N/A;1757;0.096749389;N/A;3.11456E-05;0;7811;5.747608536;1757;1;0.001101772
+;Basel;45.4;Dieht;ArchiMob;historical interviews;manual;Yes;Zurich area;No;22;N/A;1;no;0;0;6.62;N/A;N/A;2697;0.096749389;N/A;3.11456E-05;0;12255;5.676239;2697;1;0.000536808
+;Grisons;49.68;Dieht;ArchiMob;historical interviews;manual;Yes;Zurich area;No;22;N/A;1;no;0;0;6.62;N/A;N/A;900;0.096749389;N/A;3.11456E-05;0;3037;6.886621315;900;1;0.002188679
+;Lucerne;22.37;Dieht;ArchiMob;historical interviews;manual;Yes;Zurich area;No;22;N/A;1;no;0;0;6.62;N/A;N/A;2515;0.096749389;N/A;3.11456E-05;0;13095;7.202970297;2515;1;0.000681859
+;Uri;30.46;Dieht;ArchiMob;historical interviews;manual;Yes;Zurich area;No;22;N/A;1;no;0;0;6.62;N/A;N/A;1969;0.096749389;N/A;3.11456E-05;0;10155;8.36490939;1969;1;0.000712443
+;Valais;36.96;Dieht;ArchiMob;historical interviews;manual;Yes;Zurich area;No;22;N/A;1;no;0;0;6.62;N/A;N/A;2236;0.096749389;N/A;3.11456E-05;0;11488;7.846994536;2236;1;0.00078265
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+XLSR Lexicon-Free Khosravani et al.;Northwestern Swiss;17.2;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Bern;18.2;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Zurich;16.9;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Grisons;20.8;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Eastern Swiss;14.7;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Valais;19.3;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Central Swiss;17.4;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+XLSR Baseline Khosravani et al.;Northwestern Swiss;15.8;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Bern;17.1;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Zurich;15.7;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Grisons;20.4;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Eastern Swiss;13.6;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Valais;17.5;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Central Swiss;16.3;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+XLSR manual normalization Khosravani et al.;Northwestern Swiss;13.7;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Bern;15.9;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Zurich;13.8;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Grisons;19.6;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Eastern Swiss;11.6;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Valais;16.5;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Central Swiss;14.8;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+XLSR automatic normalization Khosravani et al.;Northwestern Swiss;12.6;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Bern;15.1;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Zurich;12.2;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Grisons;18.1;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Eastern Swiss;10.4;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Valais;15.7;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Central Swiss;13.7;in dialect;TV assistant;short commands, scripted or spontaneous;manual;No;Mixed: Northwestern Swiss, Bern, Zürich, Graubünden, Eastern Swiss, Valais, Central Swiss;Yes;3817;N/A;N/A;yes;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+System a Schraner et al.;Basel;29.99;Standard German;STT4SG-350;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Bern;34.83;Standard German;STT4SG-351;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Grisons;28.72;Standard German;STT4SG-352;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Central;26.92;Standard German;STT4SG-353;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;East;31.33;Standard German;STT4SG-354;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Valais;31.56;Standard German;STT4SG-355;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Zurich;27.7;Standard German;STT4SG-356;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+System b Schraner et al.;Basel;29.47;Standard German;STT4SG-350;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Bern;28.75;Standard German;STT4SG-351;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Grisons;25.79;Standard German;STT4SG-352;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Central;24.52;Standard German;STT4SG-353;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;East;28.1;Standard German;STT4SG-354;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Valais;34.38;Standard German;STT4SG-355;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Zurich;24.36;Standard German;STT4SG-356;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+System c Schraner et al.;Basel;28.35;Standard German;STT4SG-350;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Bern;31.49;Standard German;STT4SG-351;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Grisons;24.71;Standard German;STT4SG-352;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Central;24.21;Standard German;STT4SG-353;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;East;26.7;Standard German;STT4SG-354;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Valais;30.42;Standard German;STT4SG-355;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Zurich;24.94;Standard German;STT4SG-356;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+System d Schraner et al.;Basel;28.58;Standard German;STT4SG-350;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Bern;28.72;Standard German;STT4SG-351;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Grisons;24.96;Standard German;STT4SG-352;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Central;23.63;Standard German;STT4SG-353;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;East;26.76;Standard German;STT4SG-354;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Valais;32.76;Standard German;STT4SG-355;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;Zurich;24.85;Standard German;STT4SG-356;web crawl;N/A;No;N/A;N/A;N/A;N/A;10;No;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FHNW XLS-R Schraner et al.;Basel;16.3;Standard German;SwissDial, SDS-200, SPC, STT4SG-350;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;11.1437523;;0;11.1437523;10316;N/A;;0;;;N/A;N/A;N/A;N/A;N/A
+;Bern;15.74;Standard German;SwissDial, SDS-200, SPC, STT4SG-351;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;10.38962963;;0;10.38962963;10614;N/A;;0;;;N/A;N/A;N/A;N/A;N/A
+;Grisons;14.32;Standard German;SwissDial, SDS-200, SPC, STT4SG-352;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;;;0;;;N/A;;;;;N/A;N/A;N/A;N/A;N/A
+;Central;13.26;Standard German;SwissDial, SDS-200, SPC, STT4SG-353;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;;;0;;;N/A;;;;;N/A;N/A;N/A;N/A;N/A
+;East;16.45;Standard German;SwissDial, SDS-200, SPC, STT4SG-354;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;;;0;;;N/A;;;;;N/A;N/A;N/A;N/A;N/A
+;Valais;17.75;Standard German;SwissDial, SDS-200, SPC, STT4SG-355;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;10.34108246;;0;10.34108246;10988;N/A;;0;;;N/A;N/A;N/A;N/A;N/A
+;Zurich;13.41;Standard German;SwissDial, SDS-200, SPC, STT4SG-356;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;10.68364084;;0;10.68364084;14122;N/A;;0;;;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FHNW Transformer Schraner et al.;Basel;21.24;Standard German;SwissDial, SDS-200, SPC, STT4SG-350;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;11.1437523;;0;11.1437523;10316;N/A;;0;;;N/A;N/A;N/A;N/A;N/A
+;Bern;20.96;Standard German;SwissDial, SDS-200, SPC, STT4SG-351;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;10.38962963;;0;10.38962963;10614;N/A;;0;;;N/A;N/A;N/A;N/A;N/A
+;Grisons;17.29;Standard German;SwissDial, SDS-200, SPC, STT4SG-352;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;;;0;;;N/A;;;;;N/A;N/A;N/A;N/A;N/A
+;Central;16.37;Standard German;SwissDial, SDS-200, SPC, STT4SG-353;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;;;0;;;N/A;;;;;N/A;N/A;N/A;N/A;N/A
+;East;18.58;Standard German;SwissDial, SDS-200, SPC, STT4SG-354;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;;;0;;;N/A;;;;;N/A;N/A;N/A;N/A;N/A
+;Valais;22.64;Standard German;SwissDial, SDS-200, SPC, STT4SG-355;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;10.34108246;;0;10.34108246;10988;N/A;;0;;;N/A;N/A;N/A;N/A;N/A
+;Zurich;17.3;Standard German;SwissDial, SDS-200, SPC, STT4SG-356;news, Wikipedia, wide topic range, translations, parlamentary debates;manual;No;All;Yes;N/A;N/A;10;No;10.68364084;;0;10.68364084;14122;N/A;;0;;;N/A;N/A;N/A;N/A;N/A
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+whisper-large Sicard et al.;Aargau;75;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11121;0;0;0;0;28132;10.23726346;11121;1;0.000409681
+;Bern;81;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10614;0;0;0;0;28052;10.38962963;10614;1;0.00043949
+;Basel-Stadt;90;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10316;0;0;0;0;30233;11.1437523;10316;1;0.000417729
+;Grisons;75;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;33503;0;0;0;0;132717;12.66988067;33503;1;0.000101083
+;Lucerne;90;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10372;0;0;0;0;29223;10.76353591;10372;1;0.000428456
+;St. Gallen;93;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11010;0;0;0;0;29176;10.60174419;11010;1;0.000374872
+;Valais;82;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10988;0;0;0;0;28469;10.34108246;10988;1;0.000410574
+;Zurich;76;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;14122;0;0;0;0;43429;10.68364084;14122;1;0.000289592
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+whisper-medium Sicard et al.;Aargau;88;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11121;0;0;0;0;28132;10.23726346;11121;1;0.000409681
+;Bern;83;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10614;0;0;0;0;28052;10.38962963;10614;1;0.00043949
+;Basel-Stadt;66;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10316;0;0;0;0;30233;11.1437523;10316;1;0.000417729
+;Grisons;65;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;33503;0;0;0;0;132717;12.66988067;33503;1;0.000101083
+;Lucerne;86;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10372;0;0;0;0;29223;10.76353591;10372;1;0.000428456
+;St. Gallen;93;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11010;0;0;0;0;29176;10.60174419;11010;1;0.000374872
+;Valais;83;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10988;0;0;0;0;28469;10.34108246;10988;1;0.000410574
+;Zurich;76;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;14122;0;0;0;0;43429;10.68364084;14122;1;0.000289592
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+whisper-small Sicard et al.;Aargau;90;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11121;0;0;0;0;28132;10.23726346;11121;1;0.000409681
+;Bern;85;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10614;0;0;0;0;28052;10.38962963;10614;1;0.00043949
+;Basel-Stadt;73;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10316;0;0;0;0;30233;11.1437523;10316;1;0.000417729
+;Grisons;76;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;33503;0;0;0;0;132717;12.66988067;33503;1;0.000101083
+;Lucerne;92;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10372;0;0;0;0;29223;10.76353591;10372;1;0.000428456
+;St. Gallen;87;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11010;0;0;0;0;29176;10.60174419;11010;1;0.000374872
+;Valais;88;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10988;0;0;0;0;28469;10.34108246;10988;1;0.000410574
+;Zurich;76;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;14122;0;0;0;0;43429;10.68364084;14122;1;0.000289592
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+whisper-base Sicard et al.;Aargau;98;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11121;0;0;0;0;28132;10.23726346;11121;1;0.000409681
+;Bern;90;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10614;0;0;0;0;28052;10.38962963;10614;1;0.00043949
+;Basel-Stadt;80;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10316;0;0;0;0;30233;11.1437523;10316;1;0.000417729
+;Grisons;78;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;33503;0;0;0;0;132717;12.66988067;33503;1;0.000101083
+;Lucerne;98;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10372;0;0;0;0;29223;10.76353591;10372;1;0.000428456
+;St. Gallen;86;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11010;0;0;0;0;29176;10.60174419;11010;1;0.000374872
+;Valais;97;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10988;0;0;0;0;28469;10.34108246;10988;1;0.000410574
+;Zurich;85;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;14122;0;0;0;0;43429;10.68364084;14122;1;0.000289592
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+whisper-tiny Sciard et al.;Aargau;115;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11121;0;0;0;0;28132;10.23726346;11121;1;0.000409681
+;Bern;100;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10614;0;0;0;0;28052;10.38962963;10614;1;0.00043949
+;Basel-Stadt;90;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10316;0;0;0;0;30233;11.1437523;10316;1;0.000417729
+;Grisons;90;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;33503;0;0;0;0;132717;12.66988067;33503;1;0.000101083
+;Lucerne;16;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10372;0;0;0;0;29223;10.76353591;10372;1;0.000428456
+;St. Gallen;94;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;11010;0;0;0;0;29176;10.60174419;11010;1;0.000374872
+;Valais;121;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;10988;0;0;0;0;28469;10.34108246;10988;1;0.000410574
+;Zurich;98;Dialect;Swiss Dial;news, Wikipedia, wide topic range, translations;manual;No;Zero-Shot;No;0;0;N/A;No;0;Zero-Shot;0;0;0;14122;0;0;0;0;43429;10.68364084;14122;1;0.000289592
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+NNET-DISC Nigmatulina;Valais;71;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;1464;1464;6.784099784;7.846994536;4452;4452;#WERT!;0.000590538;1.85238E-05;0.00078265;1464;7.846994536;4452;0.127437326;0.00078265
+;St. Gallen;69;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;3089;3089;6.784099784;6.235998705;3606;3606;#WERT!;0.000352183;1.85238E-05;0.000430426;3089;6.235998705;3606;0.160359238;0.000430426
+;Luzern;62;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;5;5;Yes;6959;6959;6.784099784;6.942520477;7085;7085;#WERT!;0.00014042;1.85238E-05;0.000192523;6959;6.942520477;7085;0.144039906;0.000192523
+;Bern;61;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;6;6;Yes;11417;11417;6.784099784;7.021196461;10923;10923;#WERT!;8.46309E-05;1.85238E-05;0.000114499;11417;7.021196461;10923;0.142425868;0.000114499
+;Glarus;59;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;2;2;Yes;4561;4561;6.784099784;5.883797413;4456;4456;#WERT!;0.000252798;1.85238E-05;0.000345435;4561;5.883797413;4456;0.169958265;0.000345435
+;Schwyz;59;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;1061;1061;6.784099784;9.165881244;2298;2298;#WERT!;0.000697594;1.85238E-05;0.000814093;1061;9.165881244;2298;0.109100257;0.000814093
+;Basel-Stadt;58;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;5;5;Yes;11583;11583;6.784099784;6.443753777;10637;10637;#WERT!;9.08934E-05;1.85238E-05;0.000112671;11583;6.443753777;10637;0.155189046;0.000112671
+;Uri;58;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;1214;1214;6.784099784;8.36490939;1969;1969;#WERT!;0.000668055;1.85238E-05;0.000712443;1214;8.36490939;1969;0.119547021;0.000712443
+;Basel-Landschaft;57;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;2047;2047;6.784099784;7.610161212;2686;2686;#WERT!;0.000435492;1.85238E-05;0.000567537;2047;7.610161212;2686;0.131403261;0.000567537
+;Schaffhausen;57;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;1806;1806;6.784099784;9.57530454;3020;3020;#WERT!;0.000392303;1.85238E-05;0.000375084;1806;9.57530454;3020;0.104435321;0.000375084
+;Aargau;57;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;6;6;Yes;15590;15590;6.784099784;6.591084028;13221;13221;#WERT!;6.60221E-05;1.85238E-05;8.66818E-05;15590;6.591084028;13221;0.151720111;8.66818E-05
+;Nidwalden;56;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;2;2;Yes;3529;3529;6.784099784;7.564465854;4394;4394;#WERT!;0.000254134;1.85238E-05;0.000362605;3529;7.564465854;4394;0.132197041;0.000362605
+;Zurich;55;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;14;14;Yes;29415;29967;6.784099784;6.481047085;20320;20320;#WERT!;3.55859E-05;1.85238E-05;3.11456E-05;29967;6.481047085;20320;0.157191565;3.11456E-05
+;Grisons;31;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;441;48313;6.784099784;6.886621315;900;900;#WERT!;0.002233816;1.85238E-05;0.002188679;48313;6.886621315;900;15.90813303;0.002188679
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+TDNN-iVector Nigmatulina;Valais;64;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;1464;1464;6.784099784;7.846994536;4452;4452;#WERT!;0.000590538;1.85238E-05;0.00078265;1464;7.846994536;4452;0.127437326;0.00078265
+;St. Gallen;60;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;3089;3089;6.784099784;6.235998705;3606;3606;#WERT!;0.000352183;1.85238E-05;0.000430426;3089;6.235998705;3606;0.160359238;0.000430426
+;Luzern;55;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;5;5;Yes;6959;6959;6.784099784;6.942520477;7085;7085;#WERT!;0.00014042;1.85238E-05;0.000192523;6959;6.942520477;7085;0.144039906;0.000192523
+;Bern;51;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;6;6;Yes;11417;11417;6.784099784;7.021196461;10923;10923;#WERT!;8.46309E-05;1.85238E-05;0.000114499;11417;7.021196461;10923;0.142425868;0.000114499
+;Glarus;51;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;2;2;Yes;4561;4561;6.784099784;5.883797413;4456;4456;#WERT!;0.000252798;1.85238E-05;0.000345435;4561;5.883797413;4456;0.169958265;0.000345435
+;Schwyz;49;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;1061;1061;6.784099784;9.165881244;2298;2298;#WERT!;0.000697594;1.85238E-05;0.000814093;1061;9.165881244;2298;0.109100257;0.000814093
+;Basel-Stadt;49;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;5;5;Yes;11583;11583;6.784099784;6.443753777;10637;10637;#WERT!;9.08934E-05;1.85238E-05;0.000112671;11583;6.443753777;10637;0.155189046;0.000112671
+;Uri;49;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;1214;1214;6.784099784;8.36490939;1969;1969;#WERT!;0.000668055;1.85238E-05;0.000712443;1214;8.36490939;1969;0.119547021;0.000712443
+;Basel-Landschaft;43;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;2047;2047;6.784099784;7.610161212;2686;2686;#WERT!;0.000435492;1.85238E-05;0.000567537;2047;7.610161212;2686;0.131403261;0.000567537
+;Schaffhausen;42;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;1806;1806;6.784099784;9.57530454;3020;3020;#WERT!;0.000392303;1.85238E-05;0.000375084;1806;9.57530454;3020;0.104435321;0.000375084
+;Aargau;42;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;6;6;Yes;15590;15590;6.784099784;6.591084028;13221;13221;#WERT!;6.60221E-05;1.85238E-05;8.66818E-05;15590;6.591084028;13221;0.151720111;8.66818E-05
+;Nidwalden;41;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;2;2;Yes;3529;3529;6.784099784;7.564465854;4394;4394;#WERT!;0.000254134;1.85238E-05;0.000362605;3529;7.564465854;4394;0.132197041;0.000362605
+;Zurich;41;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;14;14;Yes;29415;29967;6.784099784;6.481047085;20320;20320;#WERT!;3.55859E-05;1.85238E-05;3.11456E-05;29967;6.481047085;20320;0.157191565;3.11456E-05
+;Grisons;22;Dieht;ArchiMob;historical interviews;manual;Yes;All;Yes;43;1;1;Yes;441;48313;6.784099784;6.886621315;900;900;#WERT!;0.002233816;1.85238E-05;0.002188679;48313;6.886621315;900;15.90813303;0.002188679
