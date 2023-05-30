@@ -16,7 +16,7 @@ unqiue_overall = set()
 
 
 
-with open('sentences_ch_de_transcribed.json', 'r', encoding='utf-8') as infile:
+with open('../sentences_ch_de_transcribed.json', 'r', encoding='utf-8') as infile:
     data = json.load(infile)
 
 for sentence in data:
